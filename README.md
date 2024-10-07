@@ -15,4 +15,4 @@ Server-Side: Node.js (server.js)
 Real-Time Communication: Socket.io
 Front-End: HTML, CSS, JavaScript
 Framework: Express.js
-Deployment Platform: (e.g., Heroku, AWS, or local server)
+Deployment Platform: (e.g: local server)
